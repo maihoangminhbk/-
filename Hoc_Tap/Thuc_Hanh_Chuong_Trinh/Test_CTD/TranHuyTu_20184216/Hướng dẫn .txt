@@ -1,0 +1,3 @@
+-chạy make
+-scanner.exe example.kpl
+-file scanner.c đã thêm CHAR_UNDERSCORE

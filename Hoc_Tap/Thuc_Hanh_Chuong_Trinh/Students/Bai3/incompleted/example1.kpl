@@ -1,0 +1,5 @@
+Program Example1; (* Example 1 *)
+CONST MAX = 10;
+TYPE T = INTEGER;
+Begin
+End. (* Example 1 *)

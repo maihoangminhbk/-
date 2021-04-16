@@ -1,0 +1,2 @@
+ 12 2hm a_bc4 m beg_in 3  1 
+ *nm* c ((*abchf*) 23 nm 23 := 45 ( *= ) /=
